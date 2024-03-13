@@ -47,11 +47,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<!-- 
-	Above are the build specifications which ends with the Spring Boot plugin. This plugin performs a few important functions: 
-		It provides a Maven goal that enables you to run the application using Maven. 
-		It ensures that all dependency libraries are included within the executable JAR file and available on the runtime classpath.
-		It produces a manifest file in the JAR file that denotes the bootstrap class (TacoCloudApplication, in this case) as the main class for the executable JAR.
-	 -->
 
 </project>

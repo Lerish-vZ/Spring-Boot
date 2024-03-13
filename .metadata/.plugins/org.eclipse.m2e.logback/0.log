@@ -4719,3 +4719,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2024-03-13 11:53:27,302 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-03-13 11:53:27,319 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-03-13 11:53:27,667 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lerishav\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\taco-cloud-chp-01\src\test\resources
+2024-03-13 11:58:55,787 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-chp-01:0.0.1-SNAPSHOT @ C:\Users\lerishav\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\taco-cloud-chp-01\pom.xml.
+2024-03-13 11:58:56,527 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 11:58:56,564 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 11:58:56,608 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lerishav\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\taco-cloud-chp-01\src\test\resources
+2024-03-13 12:02:09,607 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

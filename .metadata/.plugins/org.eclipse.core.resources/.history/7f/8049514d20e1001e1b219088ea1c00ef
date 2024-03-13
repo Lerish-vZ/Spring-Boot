@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<parent> 
+	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.3</version> <!-- Specifies that project has spring-boot-starter-parent as its parent POM. -->
+		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sia</groupId>
@@ -47,11 +47,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<!-- 
-	Above are the build specifications which ends with the Spring Boot plugin. This plugin performs a few important functions: 
-		It provides a Maven goal that enables you to run the application using Maven. 
-		It ensures that all dependency libraries are included within the executable JAR file and available on the runtime classpath.
-		It produces a manifest file in the JAR file that denotes the bootstrap class (TacoCloudApplication, in this case) as the main class for the executable JAR.
-	 -->
 
 </project>
