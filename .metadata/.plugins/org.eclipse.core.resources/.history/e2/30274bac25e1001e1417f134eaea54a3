@@ -18,12 +18,3 @@ public class TacoCloudChp01Application {
 	}
 
 }
-
-/* 
- To test your program you can build it and run it manually in the command line: 
- 	/mvnw package
- 	java -jar targer/taco-cloud-0.0.1-SNAPSHOT.jar
- 	
- 	OR (because we are using Spring Boot, the Spring Boot Maven plugin make it easier:
- 		./mvnw spring-boot:run
-*/
